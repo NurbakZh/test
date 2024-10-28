@@ -25,7 +25,7 @@ $endPage = min($page + 2, $totalPages);
     <!-- Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Отзывы клиентов о компании SoftGroup. Все отзывы публикуются без предварительного рецензирования. Отправить жалобу, благодарность за работу Softgroup.kz в Актау">
+    <meta name="description" content="Отзывы клиентов о компании SoftGroup. Все отзывы публикуются без предварительного рецензирования. Отправить жалобу, благодарность за работу Softgroup.kz в Актобе">
     <!-- CSS -->
     <link href="/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
     <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
